@@ -211,6 +211,7 @@ input, select, textarea {
 
 			.container {
 				width: calc(100% - 40px);
+				background: fixed;
 			}
 
 		}
@@ -2266,7 +2267,7 @@ input, select, textarea {
 
 	#main {
 		position: relative;
-		background: #f7f7f7 url("images/bg02.png");
+		background: #f7f7f7 url("images/bg02.png");	
 		padding: 4em 0 4em 0;
 	}
 
@@ -2369,6 +2370,7 @@ input, select, textarea {
 
 			body, input, textarea, select {
 				font-size: 11pt;
+				
 			}
 
 		/* Section/Article */
@@ -2903,6 +2905,8 @@ input, select, textarea {
 
 			#footer {
 				padding: 40px 0 20px 0;
+				
 			}
+			
 
 	}
